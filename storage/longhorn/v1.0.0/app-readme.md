@@ -8,4 +8,4 @@ Longhorn creates a dedicated storage controller for each volume and synchronousl
 
 **Warning**: Longhorn doesn't support downgrading from a higher version to a lower version.
 
-[Chart Documentation](https://github.com/longhorn/longhorn/blob/master/chart/README.md)
+[Documentation](https://longhorn.io/docs/)
