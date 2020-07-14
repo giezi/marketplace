@@ -1,5 +1,0 @@
----
-name: Longhorn
-description: Longhorn is a distributed block storage system for Kubernetes.
-version: 1.0.0
-category: storage
